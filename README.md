@@ -1,10 +1,10 @@
-HR Workforce Analysis - Power BI Dashboard 📊
+# HR Workforce Analysis - Power BI Dashboard 📊
 
-Overview 🏢
+# Overview 🏢
 
 This repository contains a Power BI Dashboard for HR Workforce Analysis, focusing on key metrics like employee count, attrition rate, average age, average salary, and average years of service. It helps visualize attrition trends, job roles, salary slabs, and demographic insights for data-driven decision-making.
 
-Key Features ✨
+# Key Features ✨
 
 Attrition Analysis: By age group, job role, and salary slab.
 
@@ -14,7 +14,7 @@ Demographic Trends: Education fields, gender distribution, and years of service.
 
 Visual Representations: Interactive charts and tables for clear insights.
 
-Use Cases 💼
+# Use Cases 💼
 
 HR Professionals: For monitoring workforce dynamics and identifying attrition trends.
 
@@ -22,7 +22,7 @@ Data Analysts: To explore and analyze HR-related metrics.
 
 Business Managers: To make informed staffing and management decisions.
 
-Installation and Setup 🚀
+# Installation and Setup 🚀
 
 Step 1: Install Power BI Desktop 🖥️
 
@@ -48,11 +48,11 @@ Use filters, slicers, and interactive visuals.
 
 Analyze different metrics by selecting specific time periods, job roles, or departments.
 
-Contributing 🤝
+# Contributing 🤝
 
 Contributions are welcome! Feel free to submit issues or create pull requests.
 
-License 📜
+# License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
