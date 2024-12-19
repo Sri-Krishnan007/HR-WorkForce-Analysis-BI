@@ -34,7 +34,7 @@ Step 2: Load the Dashboard 📂
 
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/hr-workforce-analysis.git
+(https://github.com/Sri-Krishnan007/HR-WorkForce-Analysis-BI.git)
 
 Open Power BI Desktop.
 
